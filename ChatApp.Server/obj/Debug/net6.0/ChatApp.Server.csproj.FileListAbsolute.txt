@@ -1,0 +1,15 @@
+C:\Users\kapla\source\repos\ChatApplication\ChatApp.Server\bin\Debug\net6.0\ChatApp.Server.exe
+C:\Users\kapla\source\repos\ChatApplication\ChatApp.Server\bin\Debug\net6.0\ChatApp.Server.deps.json
+C:\Users\kapla\source\repos\ChatApplication\ChatApp.Server\bin\Debug\net6.0\ChatApp.Server.runtimeconfig.json
+C:\Users\kapla\source\repos\ChatApplication\ChatApp.Server\bin\Debug\net6.0\ChatApp.Server.dll
+C:\Users\kapla\source\repos\ChatApplication\ChatApp.Server\bin\Debug\net6.0\ChatApp.Server.pdb
+C:\Users\kapla\source\repos\ChatApplication\ChatApp.Server\obj\Debug\net6.0\ChatApp.Server.csproj.AssemblyReference.cache
+C:\Users\kapla\source\repos\ChatApplication\ChatApp.Server\obj\Debug\net6.0\ChatApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kapla\source\repos\ChatApplication\ChatApp.Server\obj\Debug\net6.0\ChatApp.Server.AssemblyInfoInputs.cache
+C:\Users\kapla\source\repos\ChatApplication\ChatApp.Server\obj\Debug\net6.0\ChatApp.Server.AssemblyInfo.cs
+C:\Users\kapla\source\repos\ChatApplication\ChatApp.Server\obj\Debug\net6.0\ChatApp.Server.csproj.CoreCompileInputs.cache
+C:\Users\kapla\source\repos\ChatApplication\ChatApp.Server\obj\Debug\net6.0\ChatApp.Server.dll
+C:\Users\kapla\source\repos\ChatApplication\ChatApp.Server\obj\Debug\net6.0\refint\ChatApp.Server.dll
+C:\Users\kapla\source\repos\ChatApplication\ChatApp.Server\obj\Debug\net6.0\ChatApp.Server.pdb
+C:\Users\kapla\source\repos\ChatApplication\ChatApp.Server\obj\Debug\net6.0\ChatApp.Server.genruntimeconfig.cache
+C:\Users\kapla\source\repos\ChatApplication\ChatApp.Server\obj\Debug\net6.0\ref\ChatApp.Server.dll
